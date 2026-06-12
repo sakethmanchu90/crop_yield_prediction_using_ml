@@ -102,11 +102,6 @@ The **prediction_pipeline** folder contains the following components:<br>
 **CustomData Class:** This class takes input features and converts them into a DataFrame suitable for prediction.<br>
 
 
-## Deployment
-The project has been deployed on an AWS EC2 instance and is accessible via the following link:
-
-
-**[http://ec2-52-70-34-66.compute-1.amazonaws.com:8050/predict](http://ec2-52-70-34-66.compute-1.amazonaws.com:8050/predict)**
 
 ## Usage
 To run the prediction web application locally, execute:
